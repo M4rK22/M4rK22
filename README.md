@@ -1,16 +1,22 @@
-## Hi there 👋
+## HEY THERE ‼️‼️
 
-<!--
-**M4rK22/M4rK22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I
+17 yo high school student, learning Java at school and Python on my own.  
+I love exploring everything tech and building small projects for fun.
 
-Here are some ideas to get you started:
+## What I'm currently working on
+- Learning **AI in Python**
+- Creating tools in Python (scraping, pygame, etc.)
+- Currently working on a **personal cryptography project** (learning-focused, non-professional)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+- **Languages:** Java, Python  
+- **Tools:** VS Code, Git, GitHub  
+
+## How to reach me
+- [Email](mailto:mxrkx_github@gmail.com)  
+- [GitHub](https://github.com/M4rK22)
+
+## Something about me
+- I'm really into **electronics**
+- I enjoy **chess** and **logic-based problem solving**
