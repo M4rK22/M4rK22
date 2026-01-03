@@ -14,8 +14,7 @@ I love exploring everything tech and building small projects for fun.
 - **Tools:** VS Code, Git, GitHub  
 
 ## How to reach me
-- [Email](mailto:mxrkx_github@gmail.com)  
-- [GitHub](https://github.com/M4rK22)
+- [Email](mailto:mxrkx.github@gmail.com)  
 
 ## Something about me
 - I'm really into **electronics**
